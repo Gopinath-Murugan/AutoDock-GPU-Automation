@@ -68,10 +68,6 @@ Follow these steps to set up your environment and prepare for running the script
 - Modify the script to adjust parameters (e.g., grid size, number of runs) as needed for your specific docking experiments.
 - AutoDock-GPU provides faster docking simulations compared to traditional AutoDock, leveraging GPU acceleration for improved performance.
 
-## Acknowledgment
-
-If you are using this script for your studies, kindly acknowledge us in your publications or research. Your support is greatly appreciated!
-
 ## Example Run
 
 This repository includes example files for reference:
@@ -81,3 +77,16 @@ This repository includes example files for reference:
 - Python preparation scripts
 
 You can use these files to test the script and understand its workflow.
+
+## Citation
+
+If you are using this script for your studies, kindly acknowledge the use of Open Babel as per its citation guidelines and mention my GitHub repository:
+
+Santos-Martins, Diogo, et al. "Accelerating AutoDock4 with GPUs and gradient-based local search." Journal of chemical theory and computation 17.2 (2021): 1060-1073. https://pubs.acs.org/doi/10.1021/acs.jctc.0c01006
+
+For the latest version of this script and updates, visit my GitHub repository:
+https://github.com/Gopinath-Murugan/AutoDock-GPU-Automation
+
+Mentioning this repository in your publications or research would be greatly appreciated.
+
+We appreciate your support!
