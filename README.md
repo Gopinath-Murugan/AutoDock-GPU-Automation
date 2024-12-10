@@ -80,7 +80,7 @@ You can use these files to test the script and understand its workflow.
 
 ## Citation
 
-If you are using this script for your studies, kindly acknowledge the use of Open Babel as per its citation guidelines and mention my GitHub repository:
+If you are using this script for your studies, kindly acknowledge the use of AutoDock-GPU as per its citation guidelines and mention my GitHub repository:
 
 Santos-Martins, Diogo, et al. "Accelerating AutoDock4 with GPUs and gradient-based local search." Journal of chemical theory and computation 17.2 (2021): 1060-1073. https://pubs.acs.org/doi/10.1021/acs.jctc.0c01006
 
