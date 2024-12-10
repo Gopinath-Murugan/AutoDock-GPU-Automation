@@ -10,6 +10,7 @@ Before using this script, ensure the following:
 2. **Software Requirements**:
    - [AutoDock-GPU](https://ccsb.scripps.edu/autodock-gpu/): Ensure it is installed and added to your `PATH`.
    - [MGLTools](https://ccsb.scripps.edu/mgltools/): Install to access the `pythonsh` and preparation scripts.
+   - CUDA must be installed and configured and ensure the correct version of CUDA for your GPU driver.
 3. **Hardware Requirements**:
    - Your system should have GPU cards to use this script effectively. Examples of compatible GPUs include:
      - NVIDIA GeForce RTX 30 Series (e.g., RTX 3080, RTX 3090)
