@@ -61,7 +61,7 @@ for f in ./*.pdb; do
 		
         # Run AutoDock-GPU.
         echo "Starting AutoDock-GPU for $lig"
-        autodock_gpu_128wi --ffile protein.maps.fld --lfile "$lig".pdbqt --nrun 100 --nev 2500000 --gbest ||
+        autodock_gpu_128wi --ffile protein.maps.fld --lfile "$lig".pdbqt --nrun 100 --nev 2500000 --gbest 1 ||
             { echo "AutoDock-GPU failed for $lig"; exit 1; }
     )
 done
